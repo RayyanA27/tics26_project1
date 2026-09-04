@@ -33,9 +33,9 @@ Your goal is to design a fun, interactive experience that takes 5–10 minutes t
 * >[ ] string
 * >[ ] bool 
 
-8. User defined function that meaningfully contributes to the game
+8. >User defined function that meaningfully contributes to the game
 9. >Data vector (list, dset, dict, tuple)
-10. A clear ending
+10. >A clear ending
 
 #### Your target is ~5 minutes of gameplay
 
