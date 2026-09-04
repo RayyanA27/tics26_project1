@@ -85,4 +85,4 @@ while alive == True:
         health = health2(100)
         print(f"Health:, {health}")
         print("Game Over!")
-    print(f"Out of respect for Jayden Daniels, our rating will not be out of 5. Instead it will be out of 3. Rate the game., {rating}, Thank you, {name}, for playing.")
+    print(input(f"Out of respect for Jayden Daniels, our rating will not be out of 5. Instead it will be out of 3. Rate the game., {rating}"))
